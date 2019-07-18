@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZaioSearchBar/static/css/main.022fb6f8.chunk.css",
+    "main.js": "/ZaioSearchBar/static/js/main.21cb8824.chunk.js",
+    "main.js.map": "/ZaioSearchBar/static/js/main.21cb8824.chunk.js.map",
+    "runtime~main.js": "/ZaioSearchBar/static/js/runtime~main.24fb85f4.js",
+    "runtime~main.js.map": "/ZaioSearchBar/static/js/runtime~main.24fb85f4.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/ZaioSearchBar/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/ZaioSearchBar/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/ZaioSearchBar/index.html",
+    "precache-manifest.2a3611d687f4d39241b3ce7c5a0aa9f5.js": "/ZaioSearchBar/precache-manifest.2a3611d687f4d39241b3ce7c5a0aa9f5.js",
+    "service-worker.js": "/ZaioSearchBar/service-worker.js",
+    "static/css/main.022fb6f8.chunk.css.map": "/ZaioSearchBar/static/css/main.022fb6f8.chunk.css.map"
+  }
+}

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ZaioSearchBar/precache-manifest.0e1cdad1a7e6eef568369eb770dc124a.js"
+  "/ZaioSearchBar/precache-manifest.fa1d16c98ab12a55023967a248dd11ab.js"
 );
 
 self.addEventListener('message', (event) => {

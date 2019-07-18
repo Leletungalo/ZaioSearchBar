@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ZaioSearchBar/static/css/main.af086d5f.chunk.css",
+    "main.css": "/ZaioSearchBar/static/css/main.affac4e5.chunk.css",
     "main.js": "/ZaioSearchBar/static/js/main.ef95e1e0.chunk.js",
     "main.js.map": "/ZaioSearchBar/static/js/main.ef95e1e0.chunk.js.map",
     "runtime~main.js": "/ZaioSearchBar/static/js/runtime~main.24fb85f4.js",
@@ -8,8 +8,8 @@
     "static/js/2.65aa1cca.chunk.js": "/ZaioSearchBar/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/ZaioSearchBar/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/ZaioSearchBar/index.html",
-    "precache-manifest.0e1cdad1a7e6eef568369eb770dc124a.js": "/ZaioSearchBar/precache-manifest.0e1cdad1a7e6eef568369eb770dc124a.js",
+    "precache-manifest.fa1d16c98ab12a55023967a248dd11ab.js": "/ZaioSearchBar/precache-manifest.fa1d16c98ab12a55023967a248dd11ab.js",
     "service-worker.js": "/ZaioSearchBar/service-worker.js",
-    "static/css/main.af086d5f.chunk.css.map": "/ZaioSearchBar/static/css/main.af086d5f.chunk.css.map"
+    "static/css/main.affac4e5.chunk.css.map": "/ZaioSearchBar/static/css/main.affac4e5.chunk.css.map"
   }
 }
